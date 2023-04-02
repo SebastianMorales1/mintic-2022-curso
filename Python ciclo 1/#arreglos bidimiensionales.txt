@@ -1,0 +1,6 @@
+#arreglos bidimiensionales
+
+#unidimensional
+lista = [2,4,6,8,10]
+#bidimensional
+matriz = [[1,2],[3,4],[5,6]]
